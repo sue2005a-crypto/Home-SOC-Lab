@@ -15,7 +15,7 @@ The goal was to create a security monitoring environment where I could collect e
 | Wazuh Agent | Collects and forwards endpoint logs |
 | Wazuh Dashboard | Security monitoring and investigation |
 | Sysmon | Windows system activity monitoring |
-| VirtualBox | Virtual machine environment |
+| VMware | Virtual machine environment |
 
 ## Project Implementation
 

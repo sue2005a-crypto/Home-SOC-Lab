@@ -1,6 +1,6 @@
 # Home SOC Lab – SIEM Monitoring & Threat Detection
 
-## Project Overview
+## Overview
 
 This project is a hands-on Security Operations Center (SOC) lab that I built using Wazuh, Ubuntu Server, and Windows 11 virtual machines. The goal was to create a security monitoring environment where I could collect endpoint logs, detect suspicious activity, and investigate security events.
 
@@ -19,7 +19,7 @@ I configured Wazuh to monitor a Windows endpoint and practiced investigating aut
 
 Windows 11 VM → Wazuh Agent → Ubuntu Wazuh Manager → Wazuh Dashboard
 
-## Project Implementation
+## Implementation
 
 ### 1. SIEM Deployment and Configuration
 - Installed and configured Wazuh Manager on Ubuntu.
